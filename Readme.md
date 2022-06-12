@@ -8,8 +8,7 @@ Cadastro de Usuário desenvolvido em React.Js.
 
  
 
-![previewCalculator](C:\Users\rafae\OneDrive\Área de Trabalho\userRegistration\previewCadastrodeUsuario.jpeg)
-
+![previewCadastrodeUsuario](https://user-images.githubusercontent.com/99810723/173242266-1a58042d-b6d3-4e53-9b20-374a334a78a9.jpeg)
 
 
 
